@@ -16,8 +16,6 @@ Python | Lógica de Programação e POO | Bibliotecas | DataViz | PowerBI | SQL 
 ### Experiência Profissional
 [Mar/2020 - Mar/2021] Projetista de Redes na Assim Telecom
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f-quirino&layout=compact&langs_count=7&theme=dark"/>
-
 <!--
 **f-quirino/f-quirino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
