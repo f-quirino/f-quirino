@@ -4,7 +4,7 @@
 <a href = "mailto:flavioviniquirino@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ### Sobre
-Olá, sou Flávio Quirino, jovem de 24 anos, formado em Engenharia Civil e atualmente entusiasta em Ciência de Dados, atuei como projetista por um ano, porém encontrei minha paixão nos dados, onde estou me especializando no Data Science Degree da Let's Code.
+Olá, sou Flávio Quirino, tenho 25 anos, formado em Engenharia Civil e atualmente entusiasta em Ciência de Dados. Atuei como projetista por um ano, porém encontrei minha paixão nos dados, onde me especializei em Data Science no degree realizado pela Let's Code.
 
 ### Formação
 Engenharia Civil pela Universidade do Oeste Paulista  
